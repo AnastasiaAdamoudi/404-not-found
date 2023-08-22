@@ -1,4 +1,4 @@
-import { scarecrow } from "./Scarecrow.png";
+import scarecrow from "./Scarecrow.png";
 
 const Image = () => {
     return (
